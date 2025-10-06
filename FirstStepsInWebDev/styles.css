@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+    justify-content: center;
+}
+
+.button {
+    background: #33a165;
+    border: none;
+    color: white;
+    padding: 10vh 10vw;
+}
+
+.button:hover{
+    background:white ;
+    border: none;
+    color: #33a165;
+    padding: 10vh 10vw;
+}
+
+.button:active{
+    background:rgb(99, 33, 33) ;
+    border: none;
+    color: #33a165;
+    padding: 10vh 10vw;
+}
