@@ -64,7 +64,7 @@ while True:
 
     while True:
         key = msvcrt.getch()
-        lines_to_del += 3
+        lines_to_del += 2
         ans = None
         if key in [b'a', b'A']:
             print("You pressed A")
